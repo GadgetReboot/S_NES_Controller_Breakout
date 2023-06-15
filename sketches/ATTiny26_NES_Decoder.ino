@@ -88,14 +88,14 @@ void setup()
   digitalWrite(nesClock, LOW);      // NES control lines idle low
   digitalWrite(nesLatch, LOW);
 
-  digitalWrite(outputLeft, LOW);
-  digitalWrite(outputUp, LOW);
-  digitalWrite(outputDn, LOW);
-  digitalWrite(outputRight, LOW);
-  digitalWrite(outputSelect, LOW);
-  digitalWrite(outputStart, LOW);
-  digitalWrite(outputA, LOW);
-  digitalWrite(outputB, LOW);
+  digitalWrite(outputLeft, HIGH);
+  digitalWrite(outputUp, HIGH);
+  digitalWrite(outputDn, HIGH);
+  digitalWrite(outputRight, HIGH);
+  digitalWrite(outputSelect, HIGH);
+  digitalWrite(outputStart, HIGH);
+  digitalWrite(outputA, HIGH);
+  digitalWrite(outputB, HIGH);
 
   pinMode(outputLeft, OUTPUT);
   pinMode(outputUp, OUTPUT);
