@@ -1,0 +1,27 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"G***","LOGO","pcb way logo",-31.311000,14.229000,180.000000,bottom
+"C1","100nF","C_Disc_D3.8mm_W2.6mm_P2.50mm",32.611000,8.529000,180.000000,top
+"C2","10uF 16v","CP_Radial_D5.0mm_P2.50mm",17.561000,23.329000,0.000000,top
+"C3","100nF","C_Disc_D3.8mm_W2.6mm_P2.50mm",36.961000,8.529000,0.000000,top
+"C4","100nF","C_Disc_D3.8mm_W2.6mm_P2.50mm",30.161000,21.829000,0.000000,top
+"J1","Conn_01x12","PinHeader_1x12_P2.54mm_Vertical",9.141000,44.929000,90.000000,top
+"J2","Conn_01x05","PinHeader_1x05_P2.54mm_Vertical",2.061000,3.779000,90.000000,top
+"J3","Conn_02x03_Odd_Even","PinHeader_2x03_P2.54mm_Vertical",7.561000,24.029000,0.000000,top
+"J4","Conn_01x02","PinHeader_1x02_P2.54mm_Vertical",2.511000,44.879000,90.000000,top
+"R1","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",3.111000,28.829000,90.000000,top
+"R2","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",6.761000,28.829000,90.000000,top
+"R3","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",10.411000,28.829000,90.000000,top
+"R4","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",14.061000,28.829000,90.000000,top
+"R5","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",17.711000,28.829000,90.000000,top
+"R6","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",21.361000,28.879000,90.000000,top
+"R7","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",25.011000,28.879000,90.000000,top
+"R8","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",28.661000,28.879000,90.000000,top
+"R9","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",32.311000,28.879000,90.000000,top
+"R10","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",35.961000,28.879000,90.000000,top
+"R11","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",39.561000,28.879000,90.000000,top
+"R12","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",43.211000,28.879000,90.000000,top
+"R13","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",29.261000,5.829000,180.000000,top
+"R14","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",14.411000,10.779000,180.000000,top
+"R15","100r","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",14.411000,14.679000,180.000000,top
+"R16","10K","R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",16.561000,1.979000,0.000000,top
+"U1","ATtiny26L-8PU","DIP-20_W7.62mm",19.911000,11.379000,90.000000,top
