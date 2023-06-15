@@ -1,6 +1,8 @@
 /*
   NES Controller Button Reader
-  ATTiny26L
+  Target Device: ATTiny26L
+  Tested with Arduino IDE 1.8.13
+  Requires ATTinyCore board file v2 or later for ATTiny26 support:  https://github.com/SpenceKonde/ATTinyCore
 
   Controller Button States:
   nesRegister [7..0] = [Right, Left, Down, Up, Start, Select, B, A]
